@@ -12,6 +12,7 @@ Unlike BrainFrick V1 the syntax of BrainFrick V2 does not borrow a lot from "Bra
 ### The Buffer
 
 The buffer now can be manipulated from any point in the code in the following manner:
+
 [i] represents the slot i in the buffer.
 
 ### Operations
