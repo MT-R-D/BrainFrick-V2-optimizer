@@ -17,7 +17,11 @@ The buffer now can be manipulated from any point in the code in the following ma
 ### Operations
 
 (+) add value to slot.
+
 (-) subtract value from slot.
+
 (*) multiply value of slot.
+
 (/) divide slot by value.
+
 (=) assign value to slot.
