@@ -26,3 +26,7 @@ The buffer now can be manipulated from any point in the code in the following ma
 (/) divide slot by value.
 
 (=) assign value to slot.
+
+## Result
+
+The current method calculates the overall change for every slot affected and replaces all actions on a slot with one assignment operator with the final value of teh slot after running the code.
